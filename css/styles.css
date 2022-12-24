@@ -349,6 +349,7 @@ header >.container {
 .service-text {
     padding: 32px 16px;
     border: 1px solid #E7E9FC;
+    border-top: 0;
 }
 
 .service-title {
